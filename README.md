@@ -8,6 +8,11 @@ Main textbook - _"Computer Graphics:Implementation and Explanation"_ by J.Bloome
 
 (1) On graph paper sketch 2D letter, define each vertex coordinates, vertex indices, rgb colors for each vertex, display a letter and rotate it.
 
-![](./Assets/Assn-2.gif)
+<img src="./Assets/Assn-2.gif" width="200" height="200"/>
+
+</br>
 
 (2) Shade 3d Letter
+</br>
+
+<img src="./Assets/Assn-3.gif" width="200" height="200"/>
