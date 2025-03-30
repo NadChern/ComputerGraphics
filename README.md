@@ -12,7 +12,21 @@ Main textbook - _"Computer Graphics:Implementation and Explanation"_ by J.Bloome
 
 </br>
 
-(2) Shade 3d Letter
+(2) Transform 2d to 3d letter, shade it, set up camera for rotation, movement, zoom.
 </br>
 
 <img src="./Assets/Assn-3.gif" width="200" height="200"/>
+
+</br>
+
+(3) Texture-map 3d letter, improve lighting by using multiple lights
+
+<img src="./Assets/Assn-4.gif" width="200" height="200"/>
+
+</br>
+
+(4) Smooth-shade and textute-map a mesh (use free OBJ file from internet)
+
+</br>
+
+<img src="./Assets/Assn-5.gif" width="200" height="200"/>
