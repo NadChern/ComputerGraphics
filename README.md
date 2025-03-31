@@ -27,6 +27,21 @@ Main textbook - _"Computer Graphics:Implementation and Explanation"_ by J.Bloome
 
 (4) Smooth-shade and textute-map a mesh (use free OBJ file from internet)
 
+<img src="./Assets/Assn-5.gif" width="200" height="200"/>
+
 </br>
 
-<img src="./Assets/Assn-5.gif" width="200" height="200"/>
+(5) Adding bump-mapping to the pear
+
+<img src="./Assets/Assn-6.gif" width="200" height="200"/>
+</br>
+
+(6) Implement hierarchical relationship of dog, bird, hat
+
+<img src="./Assets/Assn-7.png" width="200" height="150"/>
+</br>
+
+(7) Draw cubic parametric 3D Bezier curve
+
+<img src="./Assets/Assn-8.gif" width="200" height="150"/>
+</br>
