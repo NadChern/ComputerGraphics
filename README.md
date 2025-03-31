@@ -39,9 +39,23 @@ Main textbook - _"Computer Graphics:Implementation and Explanation"_ by J.Bloome
 (6) Implement hierarchical relationship of dog, bird, hat
 
 <img src="./Assets/Assn-7.png" width="200" height="150"/>
+
 </br>
 
 (7) Draw cubic parametric 3D Bezier curve
 
 <img src="./Assets/Assn-8.gif" width="200" height="150"/>
+
+</br>
+
+(8) Create interpolation between shapes using Tesselattion shader
+
+<img src="./Assets/Assn-9.gif" width="200" height="150"/>
+
+</br>
+
+(9) Animate an airplane along a flight path with the propeller spins
+
+<img src="./Assets/Assn-10.gif" width="200" height="150"/>
+
 </br>
